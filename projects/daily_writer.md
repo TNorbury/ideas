@@ -1,0 +1,1 @@
+This would go along with the write streak thing I've been doing as part of my german learning. Basically just a text field, maybe built in spell checking? Idk, but it'd have a word count and one would be able to see their writing history.
